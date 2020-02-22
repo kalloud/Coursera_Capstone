@@ -1,0 +1,9 @@
+This is my report on the capstone projetct on Coursera, provided by IBM.
+Business problem: 
+Which is the best place to open a restaurant in Paris? The place should not have a lot of competition and land should be relatively cheap.
+
+Data used: 
+I'll be using the data:
+  * From Foursquare (venues, coordinate values...)
+  * From this wikipedia page: https://fr.wikipedia.org/wiki/Arrondissements_de_Paris (to get the list of Paris districts)
+  * From this webpage: https://www.journaldunet.com/patrimoine/prix-immobilier/paris/ville-75056 (to get the price of land in different districts of Paris)
